@@ -18,4 +18,4 @@ the first call.
 
 FindComponents takes 2 command line arguments: an input file and an output file.
 
-There is an example of the input file and resulting output file in this repository, titled ExampleInputOutput
+There is an example of the input file and resulting output file in this repository, titled Example Input & Output
