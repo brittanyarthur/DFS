@@ -18,38 +18,4 @@ the first call.
 
 FindComponents takes 2 command line arguments: an input file and an output file.
 
-Here is an example of the input and output:
-Input:
-8
-1 2
-2 3
-2 5
-2 6
-3 4
-3 7
-4 3
-4 8
-5 1
-5 6
-6 7
-7 6
-7 8
-8 8
-0 0
-
-Output:
-Adjacency list representation of G:
-1: 2
-2: 3 5 6
-3: 4 7
-4: 3 8
-5: 1 6
-6: 7
-7: 6 8
-8: 8
-
-G contains 4 strongly connected components:
-Component 1: 1 5 2
-Component 2: 3 4
-Component 3: 7 6
-Component 4: 8
+There is an example of the input file and resulting output file in this repository, titled ExampleInputOutput
